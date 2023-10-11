@@ -36,4 +36,5 @@ public class Class1Team_met {
     public void setPoints(int points) {
         this.points = points;
     }
+
 }

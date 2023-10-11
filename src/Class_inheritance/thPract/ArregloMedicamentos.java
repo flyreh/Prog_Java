@@ -64,6 +64,7 @@ public class ArregloMedicamentos {
     public static void main (String[] args){
         ArregloMedicamentos inicio = new ArregloMedicamentos();
         inicio.menu();
+
     }
 
 }
