@@ -27,7 +27,7 @@ public class ArrayTrab {
             for (int k=0; k<5;k++){
                 System.out.println(estados[k] +" :"+ valor_estados[k]);
 
-                System.out.println("esto fue por el push");
+                System.out.println("esto fue por el commit -> push");
             }
         }
     }
