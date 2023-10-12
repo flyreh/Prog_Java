@@ -26,7 +26,6 @@ public class ArrayTrab {
                     String.valueOf(trabaja[i].getCargo()) +" "+cargos[trabaja[i].getCargo()-1], String.valueOf(trabaja[i].getSueldo())};
             for (int k=0; k<5;k++){
                 System.out.println(estados[k] +" :"+ valor_estados[k]);
-
             }
         }
     }
